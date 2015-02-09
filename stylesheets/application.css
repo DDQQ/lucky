@@ -184,7 +184,7 @@ h2{
 .nav nav a{ padding: 10px; }
 
 #lucky-draw{
-  height: 600px;
+  height: 760px;
   margin-bottom: 50px;
   background: url('../images/header_bg.jpg') no-repeat center 50px,
               #08031A url('../images/header_bg_repeat.png') left top repeat;
