@@ -31,6 +31,12 @@ fieldset, img { border:none 0; }
 
 table { border-collapse:collapse; border-spacing:0; }
 
+
+h1{
+  color: #ff9900;
+}
+
+
 h2{
   font-size: 52px;
   color: #565656;
