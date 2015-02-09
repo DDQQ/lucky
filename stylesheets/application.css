@@ -183,7 +183,7 @@ h2{
 .nav nav a{ padding: 10px; }
 
 #lucky-draw{
-  height: 760px;
+  height: 1080px;
   margin-bottom: 50px;
   background: url('../images/header_bg.jpg') no-repeat center 50px,
               #08031A url('../images/header_bg_repeat.png') left top repeat;
@@ -228,7 +228,7 @@ h2{
 
 #lucky-button{
   width: 180px;
-  height: 42px;
+  height: 52px;
   line-height: 43px;
   font-size: 40px;
   color: white;
