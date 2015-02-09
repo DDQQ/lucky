@@ -5,7 +5,6 @@ html{
   font-family: 'Microsoft JhengHei', "微軟正黑", Tahoma, 'Times New Roman', Arial, Helvetica, STHeiti;
   margin: 0;
   padding: 0;
-  color: #ff9900;
 }
 
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, hr, p, blockquote, pre, form, fieldset, legend, button, input, textarea, th, td ,code{ margin:0px; padding:0px;}
@@ -215,7 +214,7 @@ h2{
 }
 
 #random{
-  color: #FFF;
+  color: #ff9900;
   font-size: 15em;
   text-shadow: #612C0C -2px 2px 0px;
 }
