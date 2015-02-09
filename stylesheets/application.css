@@ -18,7 +18,7 @@ address, cite, dfn, em, var { font-style:normal; }
 
 code, kbd, pre, samp { font-family:"courier new", "courier, monospace"; }
 
-small { font-size:12px; }
+small { font-size:16px; }
 
 ul, ol, li { list-style:none; }
 
@@ -31,7 +31,7 @@ fieldset, img { border:none 0; }
 table { border-collapse:collapse; border-spacing:0; }
 
 h2{
-  font-size: 32px;
+  font-size: 52px;
   color: #565656;
   text-shadow: 0 1px 1px white;
   padding-top: 10px;
@@ -43,7 +43,7 @@ h2{
   display: inline-block;
   padding: 4px 10px 4px;
   margin-bottom: 0;
-  font-size: 13px;
+  font-size: 18px;
   line-height: 18px;
   color: #333;
   text-align: center;
@@ -226,7 +226,7 @@ h2{
   width: 100px;
   height: 42px;
   line-height: 43px;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
   font-weight: 600;
   border: none;
@@ -254,7 +254,7 @@ h2{
 
 #lucky-names{
   color: #E36B23;
-  font-size: 1.2em;
+  font-size: 1.5em;
 }
 
 #lucky-names li{
