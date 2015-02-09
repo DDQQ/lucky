@@ -1,7 +1,8 @@
 ## 活動抽獎程式
-
+- http://ddqq.github.io/lucky   
+   
 ### 使用說明
-
+- [線上Demo](http://ddqq.github.io/lucky) 
 - 線上使用，全螢幕模式用Chrome瀏覽器請按F11，關閉全螢幕模式請再按一次F11
 - 匯入抽獎名單
   使用換行區分每一位抽獎者，請確認每一行是唯一的不重複名單，
