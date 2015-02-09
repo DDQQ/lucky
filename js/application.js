@@ -3,7 +3,7 @@ var lucky = (function (){
 
   this.speed = 50;
   this.intervalID;
-
+  //建立及使用HTML5 SQL Database
   var db = openDatabase("lucky", "1.0", "lucky draw", 1000);
 
   this.initDB = function() {
@@ -88,7 +88,7 @@ $(function(){
   lucky.showLuckyNames();
   lucky.showAllTickets();
 
-  //点击body时，隐藏日期控件
+  //點擊body時，隱藏日期元件
   $('body').bind('keydown', function(e){
     var k = e.which || e.keyCode;
     if(k == 32){
@@ -117,11 +117,11 @@ $(function(){
 
   $('#lucky-button').toggle(
     function(){
-      $(this).val('停 止');
+      $(this).val('停　止');
       lucky.startRolling();
     },
     function(){
-      $(this).val('开 始');
+      $(this).val('開　始');
       lucky.stopRolling();
     }
   );
